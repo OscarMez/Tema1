@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici1/ExercicisMultiproces1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici1/ExercicisMultiproces1_ParellSenar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exercici4" vcs="Git" />
   </component>
 </project>
